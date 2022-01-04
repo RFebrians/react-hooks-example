@@ -1,35 +1,55 @@
-## Corresponding Projects
+# Example for React Hooks Guideline
+
+
+## Big Thanks to freecode camp lesson & epicreact.dev course
+
+actual implementation real code (commented in indonesian) with simplified example code snippet
+
+### More on Codesandbox :
+links
+
+### Map
+images
+
+## Index
 
 #### useState
 
-1. Birthday Reminder
+- Reminder
 
 #### useEffect and Conditional Rendering
 
-2. Tours
-3. Reviews
-4. Accordion
-5. Menu
-6. Tabs
-7. Slider
+- Tours
+- Reviews
+- Accordion
+- Menu
+- Tabs
+- Slider
 
 #### Forms
 
-8. Lorem Ipsum Generator
-9. Color Shades Generator
-10. Grocery Bud
+- Lorem Ipsum Generator
+- Color Shades Generator
+- Grocery Bud
 
 #### useRef
 
-11. Navbar
+- Navbar
 
 #### useContext
 
-12. Modal and Sidebar
-13. Stripe Menus
+- Modal and Sidebar
+- Stripe Menus
 
 #### useReducer and useContext
 
-14. Cart
+- Cart
 
 #### React Router
+
+- Routing
+
+## TO DO
+
+- Storybook JS
+- fix commented code
