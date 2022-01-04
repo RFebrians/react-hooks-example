@@ -1,5 +1,5 @@
 # Example for React Hooks Guideline
-actual implementation real code (commented in indonesian) with simplified example code snippet
+actual implementation react-hooks (commented in indonesian) with simplified example code snippet
 
 
 ## Big Thanks to Freecode Camp lesson & EpicReact.dev course
