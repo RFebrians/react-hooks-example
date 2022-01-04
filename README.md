@@ -1,7 +1,7 @@
 # Example for React Hooks Guideline
 
 
-## Big Thanks to freecode camp lesson & epicreact.dev course
+## Big Thanks to Freecode Camp lesson & EpicReact.dev course
 
 actual implementation real code (commented in indonesian) with simplified example code snippet
 
@@ -9,7 +9,7 @@ actual implementation real code (commented in indonesian) with simplified exampl
 links
 
 ### Map
-images
+![map](src/assets/map.png)
 
 ## Index
 
@@ -51,5 +51,5 @@ images
 
 ## TO DO
 
-- Storybook JS
-- fix commented code
+- Storybook JS for actual component
+- improve code guideline indonesian
